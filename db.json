@@ -1,0 +1,20 @@
+{
+  "empleados": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "area": "Producción",
+      "tipoVehiculo": "Automóvil",
+      "placa": "ABC-123",
+      "color": "Rojo"
+    },
+    {
+      "id": "2",
+      "nombre": "María Gómez",
+      "area": "Finanzas",
+      "tipoVehiculo": "Moto",
+      "placa": "XYZ-787",
+      "color": "Negro"
+    }
+  ]
+}
